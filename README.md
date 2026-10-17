@@ -146,19 +146,14 @@ unrohit@stark-tower:~$ system --diagnostics --full
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=un-rohit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=C0392B&icon_color=DAA520&text_color=c9d1d9&ring_color=C0392B"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=un-rohit&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C0392B&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=un-rohit&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=un-rohit&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=un-rohit&theme=github-dark-blue&hide_border=true&background=0d1117&ring=C0392B&fire=DAA520&currStreakLabel=DAA520" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=un-rohit&theme=github-dark-blue&hide_border=true" width="60%"/>
 
 </div>
 
 ---
-
 ## `>_ CONTRIBUTION GRAPH`
 
 <div align="center">
@@ -246,3 +241,4 @@ _**"Part of the journey is the end."**_ — Tony Stark ⚙️
 ![Stars](https://img.shields.io/github/stars/un-rohit?color=DAA520&style=flat-square&label=TOTAL+STARS)
 
 </div>
+

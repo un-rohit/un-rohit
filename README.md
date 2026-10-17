@@ -132,6 +132,7 @@ unrohit@stark-tower:~$ system --diagnostics --full
 
 | ⚙️ | PROJECT | MISSION BRIEF | STACK |
 |:---:|:--------|:--------------|:------|
+| ⚡ | **[Turbo Download Manager Pro](https://github.com/un-rohit/Turbo-Download-Manager-Pro)** | Multi-channel download accelerator with browser extension and live speed visualizer | `Node.js` `Electron` `Manifest V3` `JavaScript` |
 | 🤖 | **[JARVIS](https://github.com/un-rohit/Mega_Project_Jarvis)** | AI voice assistant — wake word, news feeds, music, OpenAI chat | `Python` `OpenAI API` `Speech Recognition` `gTTS` |
 | 💬 | **[NexusChat](https://github.com/un-rohit)** | Real-time 1:1 + group chat, JWT auth, live typing, Redis cache | `Node.js` `Socket.IO` `MongoDB` `Redis` `JWT` |
 | 🏫 | **[GMIIT IMS](https://github.com/un-rohit)** | Full-stack Institute Management System + PDF gen + mobile app | `Next.js` `TypeScript` `Prisma` `MySQL` `React Native` |
@@ -241,4 +242,3 @@ _**"Part of the journey is the end."**_ — Tony Stark ⚙️
 ![Stars](https://img.shields.io/github/stars/un-rohit?color=DAA520&style=flat-square&label=TOTAL+STARS)
 
 </div>
-
